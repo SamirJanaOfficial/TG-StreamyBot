@@ -1,5 +1,5 @@
 {
-  "name": "TG-Streamy Bot",
+  "name": "TG-StreamyBot",
   "description": "A Telegram Bot based on Pyrogram to provide Streamable link from Telegram files.",
   "keywords": [
       "telegram",
